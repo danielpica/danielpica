@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS basics
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me, email at pica727@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have been working in Wholesale Optical for 23 years and a drummer for 28 years.
 
 <!---
 danielpica/danielpica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
